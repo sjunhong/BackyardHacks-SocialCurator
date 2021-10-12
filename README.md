@@ -1,5 +1,5 @@
-# Backyard Hacks 2.0 - Best use of Google Cloud
-Major League Hacking
+# Backyard Hacks 2.0 - Major League Hacking
+- Best use of Google Cloud
 
 ## Inspiration 💡
 The advent of the 𝐂𝐨𝐯𝐢𝐝-𝟏𝟗 has turned all of our lives upsides down. Changes in social dynamics due to local restrictions impacted human behavior and led to a shift in **business** dynamics. With that, a boom in the online marketplace is also prominent. Social media presence is helping people such as small businesses and organizations make a smart move, especially after seeing the effect that the COVID-19 Pandemic has left on the same. Many small businesses are struggling to stay open during these difficult times due to the lower count of people. This is indeed a very serious problem that is becoming the root cause of economic downfall in most countries.
